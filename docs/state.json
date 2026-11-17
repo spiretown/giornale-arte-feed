@@ -191,12 +191,6 @@
   "published": "2026-11-12T00:00:00+00:00",
   "first_seen": "2026-11-14T18:12:18.572413+00:00"
  },
- "https://www.ilgiornaledellarte.com/Articolo/Reggia-di-Colorno-al-via-nel-la-grande-riqualificazione-sul-piatto-oltre-milioni": {
-  "title": "Reggia di Colorno, al via nel 2027 la grande riqualificazione: sul piatto oltre 5,8 milioni",
-  "desc": "Reggia di Colorno, al via nel 2027 la grande riqualificazione: sul piatto oltre 5,8 milioni",
-  "published": "2026-11-12T00:00:00+00:00",
-  "first_seen": "2026-11-14T18:12:17.572413+00:00"
- },
  "https://www.ilgiornaledellarte.com/Articolo/LItalia-e-unopera-darte-ma-anche-una-contraddizione-La-lezione-di-Luciano-Fabro-e-Giacinto-Di-Pietrantonio": {
   "title": "L’Italia è un’opera d’arte, ma anche una contraddizione. La lezione di Luciano Fabro (e Giacinto Di Pietrantonio)",
   "desc": "L’Italia è un’opera d’arte, ma anche una contraddizione. La lezione di Luciano Fabro (e Giacinto Di Pietrantonio)",
@@ -478,5 +472,11 @@
   "desc": "Biennale Arte 2026: ultima settimana per visitare il Padiglione Italia di Chiara Camoni e Cecilia Canziani",
   "published": "2026-11-16T00:00:00+00:00",
   "first_seen": "2026-11-16T19:39:31.305861+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Pissarro-la-citta-in-stato-di-grazia-Quando-Parigi-vale-milioni-di-dollari": {
+  "title": "Pissarro, la città in stato di grazia. Quando Parigi vale 40 milioni di dollari",
+  "desc": "Pissarro, la città in stato di grazia. Quando Parigi vale 40 milioni di dollari",
+  "published": "2026-11-16T00:00:00+00:00",
+  "first_seen": "2026-11-17T03:57:44.801071+00:00"
  }
 }
