@@ -1,22 +1,4 @@
 {
- "https://www.ilgiornaledellarte.com/Articolo/Al-Museion-lalfabeto-come-arma-e-il-graffito-come-forma-di-resistenza": {
-  "title": "Al Museion l’alfabeto come arma e il graffito come forma di resistenza",
-  "desc": "Al Museion l’alfabeto come arma e il graffito come forma di resistenza",
-  "published": "2026-11-22T00:00:00+00:00",
-  "first_seen": "2026-11-22T11:35:31.901728+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Denis-Mahon-il-collezionista-che-cambio-il-destino-del-Barocco-italiano": {
-  "title": "Denis Mahon, il collezionista che cambiò il destino del Barocco italiano",
-  "desc": "Denis Mahon, il collezionista che cambiò il destino del Barocco italiano",
-  "published": "2026-11-22T00:00:00+00:00",
-  "first_seen": "2026-11-22T11:35:30.901728+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Lartefice-nel-Medioevo-ripensare-il-ruolo-dellartista-tra-filosofia-e-teologia": {
-  "title": "L’artefice nel Medioevo: ripensare il ruolo dell’artista tra filosofia e teologia",
-  "desc": "L’artefice nel Medioevo: ripensare il ruolo dell’artista tra filosofia e teologia",
-  "published": "2026-11-22T00:00:00+00:00",
-  "first_seen": "2026-11-22T11:35:29.901728+00:00"
- },
  "https://www.ilgiornaledellarte.com/Articolo/DallAra-Pacis-al-pugno-di-Trump-Larte-al-servizio-del-potere": {
   "title": "Dall’Ara Pacis al pugno di Trump. L’arte al servizio del potere",
   "desc": "Dall’Ara Pacis al pugno di Trump. L’arte al servizio del potere",
@@ -155,131 +137,11 @@
   "published": "2026-11-23T00:00:00+00:00",
   "first_seen": "2026-11-23T13:00:11.660543+00:00"
  },
- "https://www.ilgiornaledellarte.com/Articolo/Quello-che-i-musei-nascondono": {
-  "title": "Quello che i musei nascondono",
-  "desc": "Quello che i musei nascondono",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-23T13:00:03.660543+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Abitare-una-collezione-darte-nasce-Casa-Aemilia-uno-spazio-di-design-acquistabile-nel-cuore-di-Roma-": {
-  "title": "Abitare una collezione d’arte: nasce Casa Aemilia, uno spazio di design (acquistabile) nel cuore di Roma",
-  "desc": "Abitare una collezione d’arte: nasce Casa Aemilia, uno spazio di design (acquistabile) nel cuore di Roma",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-23T12:59:55.660543+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Il-rito-degli-inviti-dellarte-contemporanea-il-vero-privilegio-e-esserci-prima-degli-altri": {
-  "title": "Il rito degli inviti dell’arte contemporanea: il vero privilegio è esserci prima degli altri",
-  "desc": "Il rito degli inviti dell’arte contemporanea: il vero privilegio è esserci prima degli altri",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-23T12:59:44.660543+00:00"
- },
  "https://www.ilgiornaledellarte.com/Articolo/La-Spezia-due-musei-e-una-citta-ancora-da-mettere-a-sistema": {
   "title": "La Spezia, due musei e una città ancora da mettere a sistema",
   "desc": "La Spezia, due musei e una città ancora da mettere a sistema",
   "published": "2026-11-24T00:00:00+00:00",
   "first_seen": "2026-11-24T02:16:32.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Le-Amazzoni-di-Elisa-Sighicelli-la-sopravvivenza-del-mito-tra-fotografia-scultura-e-memoria": {
-  "title": "Le Amazzoni di Elisa Sighicelli: la sopravvivenza del mito tra fotografia, scultura e memoria",
-  "desc": "Le Amazzoni di Elisa Sighicelli: la sopravvivenza del mito tra fotografia, scultura e memoria",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:16:31.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Pavoni-coloratissimi-e-satiri-danzanti-le-pitture-scoperte-in-una-domus-romana-a-Merida": {
-  "title": "Pavoni coloratissimi e satiri danzanti: le pitture scoperte in una domus romana a Mérida",
-  "desc": "Pavoni coloratissimi e satiri danzanti: le pitture scoperte in una domus romana a Mérida",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:16:30.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Una-campana-fusa-e-sette-mesi-di-urine-il-rito-finale-di-Florentina-Holzinger-alla-Biennale": {
-  "title": "Una campana fusa e sette mesi di urine: il rito finale di Florentina Holzinger alla Biennale",
-  "desc": "Una campana fusa e sette mesi di urine: il rito finale di Florentina Holzinger alla Biennale",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:16:29.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Un-edificio-dentro-un-dipinto-Il-nuovo-padiglione-di-Gerhard-Richter": {
-  "title": "Un edificio dentro un dipinto. Il nuovo padiglione di Gerhard Richter",
-  "desc": "Un edificio dentro un dipinto. Il nuovo padiglione di Gerhard Richter",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:16:28.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Rigenerare-con-creativita-Roma-ripensa-i-suoi-spazi-culturali-dalla-Quadriennale-allex-Arsenale": {
-  "title": "Rigenerare con creatività: Roma ripensa i suoi spazi culturali, dalla Quadriennale all’ex Arsenale",
-  "desc": "Rigenerare con creatività: Roma ripensa i suoi spazi culturali, dalla Quadriennale all’ex Arsenale",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:16:27.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Kyiv-e-Odessa-nuovi-raid-russi-colpiscono-il-patrimonio-culturale-ucraino": {
-  "title": "Kyiv e Odessa, nuovi raid russi colpiscono il patrimonio culturale ucraino",
-  "desc": "Kyiv e Odessa, nuovi raid russi colpiscono il patrimonio culturale ucraino",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:16:26.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Art-Basel-Hong-Kong-annuncia-gli-espositori-del-selezione-mirata-e-spazio-alle-nuove-generazioni": {
-  "title": "Art Basel Hong Kong annuncia gli espositori del 2027: selezione mirata e spazio alle nuove generazioni",
-  "desc": "Art Basel Hong Kong annuncia gli espositori del 2027: selezione mirata e spazio alle nuove generazioni",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:16:25.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Simonetta-Vespucci-la-musa-di-Botticelli-Venere-sarebbe-morta-per-un-tumore-allipofisi": {
-  "title": "Simonetta Vespucci, la musa di Botticelli (Venere), sarebbe morta per un tumore all’ipofisi",
-  "desc": "Simonetta Vespucci, la musa di Botticelli (Venere), sarebbe morta per un tumore all’ipofisi",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:16:24.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Legge-di-Bilancio-lAssociazione-Nazionale-Archeologi-Piu-tutele-e-fiscalita-equa-per-i-professionisti": {
-  "title": "Legge di Bilancio 2027, l’Associazione Nazionale Archeologi: «Più tutele e fiscalità equa per i professionisti»",
-  "desc": "Legge di Bilancio 2027, l’Associazione Nazionale Archeologi: «Più tutele e fiscalità equa per i professionisti»",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:16:22.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Gropius-Bau-il-programma-tra-arte-identita-e-liberta-espressiva": {
-  "title": "Gropius Bau, il programma 2027 tra arte, identità e libertà espressiva",
-  "desc": "Gropius Bau, il programma 2027 tra arte, identità e libertà espressiva",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:16:19.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Premio-Lissone-Design-tre-nuove-acquisizioni-per-la-collezione-del-Mac": {
-  "title": "Premio Lissone Design 2026: tre nuove acquisizioni per la collezione del Mac",
-  "desc": "Premio Lissone Design 2026: tre nuove acquisizioni per la collezione del Mac",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:16:18.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Art-MonteCarlo-avra-un-premio-per-gli-emergenti-lingresso-del-design-e-i-grandi-spazi-dellEspace-Ravel": {
-  "title": "Art Monte-Carlo 2027 avrà un premio per gli emergenti, l’ingresso del design e i grandi spazi dell’Espace Ravel",
-  "desc": "Art Monte-Carlo 2027 avrà un premio per gli emergenti, l’ingresso del design e i grandi spazi dell’Espace Ravel",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:16:15.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Lenigma-di-de-Chirico-la-luce-di-Morandi-e-le-sfide-del-Dopoguerra-grandi-autori-dellarte-moderna-allasta": {
-  "title": "L’enigma di de Chirico, la luce di Morandi e le sfide del Dopoguerra: grandi autori dell’arte moderna all’asta",
-  "desc": "L’enigma di de Chirico, la luce di Morandi e le sfide del Dopoguerra: grandi autori dell’arte moderna all’asta",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:16:14.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Lasta-comincia-sul-tavolo-di-Federico-Zeri-Perche-lidea-di-Wannenes-puo-fare-scuola": {
-  "title": "L’asta comincia sul tavolo di Federico Zeri. Perché l’idea di Wannenes può fare scuola",
-  "desc": "L’asta comincia sul tavolo di Federico Zeri. Perché l’idea di Wannenes può fare scuola",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:16:12.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/La-Cappella-Sistina-delle-Ande-e-il-suo-tesoro-di-affreschi-in-Bolivia-il-restauro-di-un-gioiello-coloniale": {
-  "title": "La Cappella Sistina delle Ande e il suo tesoro di affreschi: in Bolivia il restauro di un gioiello coloniale",
-  "desc": "La Cappella Sistina delle Ande e il suo tesoro di affreschi: in Bolivia il restauro di un gioiello coloniale",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:16:03.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Luigi-Ghirri-la-fotografia-come-forma-di-pensiero": {
-  "title": "Luigi Ghirri, la fotografia come forma di pensiero",
-  "desc": "Luigi Ghirri, la fotografia come forma di pensiero",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:15:56.156802+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Ce-spazio-anche-per-larte-in-GTA-VI-da-Art-Basel-e-Ugo-Rondinone-ai-graffiti-di-Wynwood": {
-  "title": "C’è spazio anche per l’arte in GTA VI: da Art Basel e Ugo Rondinone ai graffiti di Wynwood",
-  "desc": "C’è spazio anche per l’arte in GTA VI: da Art Basel e Ugo Rondinone ai graffiti di Wynwood",
-  "published": "2026-11-23T00:00:00+00:00",
-  "first_seen": "2026-11-24T02:15:47.156802+00:00"
  },
  "https://www.ilgiornaledellarte.com/Articolo/David-Lynch-il-surrealista-una-mostra-a-Torino-rilegge-il-legame-tra-pittura-grafica-e-cinema": {
   "title": "David Lynch il surrealista: una mostra a Torino rilegge il legame tra pittura, grafica e cinema",
@@ -478,5 +340,143 @@
   "desc": "Castelvecchio celebra i suoi cento anni con la Venere di Tiziano. E guarda al futuro",
   "published": "2026-11-25T00:00:00+00:00",
   "first_seen": "2026-11-25T08:45:12.559497+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Mezzo-secolo-di-ricerca-nata-dai-muri-cittadini": {
+  "title": "Mezzo secolo di ricerca nata dai muri cittadini",
+  "desc": "Mezzo secolo di ricerca nata dai muri cittadini",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:50.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/La-Biennale-dei-mille-sguardi-cosa-resta-di-unedizione-complessa-e-avvincente": {
+  "title": "La Biennale dei mille sguardi: cosa resta di un’edizione complessa e avvincente",
+  "desc": "La Biennale dei mille sguardi: cosa resta di un’edizione complessa e avvincente",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:49.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Dal-laboratorio-visivo-di-Federico-Zeri-ai-fasti-imperiali-di-Sevres": {
+  "title": "Dal laboratorio visivo di Federico Zeri ai fasti imperiali di Sèvres",
+  "desc": "Dal laboratorio visivo di Federico Zeri ai fasti imperiali di Sèvres",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:48.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Due-rocche-del-Montefeltro-tornano-a-vivere-riaperto-il-Castello-della-Porta-attesa-per-la-Rocca-degli-Ubaldini": {
+  "title": "Due rocche del Montefeltro tornano a vivere: riaperto il Castello della Porta, attesa per la Rocca degli Ubaldini",
+  "desc": "Due rocche del Montefeltro tornano a vivere: riaperto il Castello della Porta, attesa per la Rocca degli Ubaldini",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:47.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Perle-da-record": {
+  "title": "Perle da record",
+  "desc": "Perle da record",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:46.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Non-chiamatela-scuola-la-fotografia-secondo-lOfficina-romagnola": {
+  "title": "Non chiamatela scuola: la fotografia secondo l’Officina romagnola",
+  "desc": "Non chiamatela scuola: la fotografia secondo l’Officina romagnola",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:45.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/La-Tate-Liverpool-riaprira-nellautunno-con-una-mostra-inedita-sul-Surrealismo": {
+  "title": "La Tate Liverpool riaprirà nell’autunno 2027 con una mostra inedita sul Surrealismo",
+  "desc": "La Tate Liverpool riaprirà nell’autunno 2027 con una mostra inedita sul Surrealismo",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:44.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Lalta-gioielleria-si-prende-la-scena-a-Bruxelles": {
+  "title": "L’alta gioielleria si prende la scena a Bruxelles",
+  "desc": "L’alta gioielleria si prende la scena a Bruxelles",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:43.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Biennale-di-Venezia-ecco-i-Leoni-dei-Visitatori-il-pubblico-incorona-Nick-Cave-e-il-Padiglione-India": {
+  "title": "Biennale di Venezia, ecco i Leoni dei Visitatori: il pubblico incorona Nick Cave e il Padiglione India",
+  "desc": "Biennale di Venezia, ecco i Leoni dei Visitatori: il pubblico incorona Nick Cave e il Padiglione India",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:42.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Torino-svela-la-facciata-juvarriana-di-Palazzo-Madama": {
+  "title": "Torino svela la facciata juvarriana di Palazzo Madama",
+  "desc": "Torino svela la facciata juvarriana di Palazzo Madama",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:41.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Dalla-digitalizzazione-del-patrimonio-storico-scientifico-di-Venezia-tutti-i-segreti-delle-sue-antiche-collezioni-naturalistiche": {
+  "title": "Dalla digitalizzazione del patrimonio storico scientifico di Venezia tutti i segreti delle sue antiche collezioni naturalistiche",
+  "desc": "Dalla digitalizzazione del patrimonio storico scientifico di Venezia tutti i segreti delle sue antiche collezioni naturalistiche",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:40.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Nella-Casa-Museo-Andersen-la-Biennale-di-Scultura-Contemporanea-ItaliaCina": {
+  "title": "Nella Casa Museo Andersen la Biennale di Scultura Contemporanea Italia-Cina",
+  "desc": "Nella Casa Museo Andersen la Biennale di Scultura Contemporanea Italia-Cina",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:37.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Velazquez-e-lItalia-a-Palazzo-Barberini-una-storia-damore-lunga-una-vita": {
+  "title": "Velázquez e l’Italia: a Palazzo Barberini una storia d’amore lunga una vita",
+  "desc": "Velázquez e l’Italia: a Palazzo Barberini una storia d’amore lunga una vita",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:36.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Achille-Funi-e-Trieste-un-intreccio-di-arte-e-relazioni-al-Museo-Revoltella": {
+  "title": "Achille Funi e Trieste, un intreccio di arte e relazioni al Museo Revoltella",
+  "desc": "Achille Funi e Trieste, un intreccio di arte e relazioni al Museo Revoltella",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:35.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Luna-park-Les-Lalanne-riunito-a-New-York-un-bestiario-incantato-da-milioni-di-dollari": {
+  "title": "Luna park Les Lalanne: riunito a New York un bestiario incantato da 25 milioni di dollari",
+  "desc": "Luna park Les Lalanne: riunito a New York un bestiario incantato da 25 milioni di dollari",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:34.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Frieze-Los-Angeles-si-prepara-allottava-edizione-al-Santa-Monica-Airport-gallerie-tra-ritorni-eccellenti-e-grandi-debutti": {
+  "title": "Frieze Los Angeles 2027 si prepara all’ottava edizione: al Santa Monica Airport 102 gallerie tra ritorni eccellenti e grandi debutti",
+  "desc": "Frieze Los Angeles 2027 si prepara all’ottava edizione: al Santa Monica Airport 102 gallerie tra ritorni eccellenti e grandi debutti",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:33.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Pordenone-da-un-inedito-Miro-ai-Simpson-e-Carlos-Santana-la-cultura-diventa-un-grande-palcoscenico-diffuso": {
+  "title": "Pordenone 2027, da un inedito Miró ai Simpson e Carlos Santana: la cultura diventa un grande palcoscenico diffuso",
+  "desc": "Pordenone 2027, da un inedito Miró ai Simpson e Carlos Santana: la cultura diventa un grande palcoscenico diffuso",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:32.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Francia-un-tesoro-di-monete-galliche-potrebbe-svelare-un-antico-santuario": {
+  "title": "Francia, un tesoro di monete galliche potrebbe svelare un antico santuario",
+  "desc": "Francia, un tesoro di monete galliche potrebbe svelare un antico santuario",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:29.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Ponte-di-Tiberio-ultimi-ritocchi-il-dicembre-riapre-ai-pedoni-il-simbolo-di-Rimini": {
+  "title": "Ponte di Tiberio, ultimi ritocchi: il 5 dicembre riapre ai pedoni il simbolo di Rimini",
+  "desc": "Ponte di Tiberio, ultimi ritocchi: il 5 dicembre riapre ai pedoni il simbolo di Rimini",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:28.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Lord-Elgin-predatore-o-salvatore-dellarte": {
+  "title": "Lord Elgin: predatore o salvatore dell’arte?",
+  "desc": "Lord Elgin: predatore o salvatore dell’arte?",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:27.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Thelma-Golden-lascia-la-direzione-dello-Studio-Museum-in-Harlem-passaggio-di-consegne-nel-": {
+  "title": "Thelma Golden lascia la direzione dello Studio Museum in Harlem: passaggio di consegne nel 2027",
+  "desc": "Thelma Golden lascia la direzione dello Studio Museum in Harlem: passaggio di consegne nel 2027",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:24.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Milano-la-bellezza-finanzia-il-restauro-del-cinquecentesco-Pozzo-del-Broletto": {
+  "title": "Milano, la bellezza finanzia il restauro del cinquecentesco Pozzo del Broletto",
+  "desc": "Milano, la bellezza finanzia il restauro del cinquecentesco Pozzo del Broletto",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:22.416281+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/A-Roma-si-ripercorrono-anni-di-normativa-e-prassi-archivistica-per-il-Codice-dei-beni-culturali-e-del-paesaggio": {
+  "title": "A Roma si ripercorrono 150 anni di normativa e prassi archivistica per il Codice dei beni culturali e del paesaggio",
+  "desc": "A Roma si ripercorrono 150 anni di normativa e prassi archivistica per il Codice dei beni culturali e del paesaggio",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T19:22:13.416281+00:00"
  }
 }
