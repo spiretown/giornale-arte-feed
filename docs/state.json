@@ -17,12 +17,6 @@
   "published": "2026-11-22T00:00:00+00:00",
   "first_seen": "2026-11-22T11:35:29.901728+00:00"
  },
- "https://www.ilgiornaledellarte.com/Articolo/Dal-guardaroba-di-Moschino-alle-rotte-di-Marco-Polo-il-Forte-di-Bard-attraversa-gli-immaginari": {
-  "title": "Dal guardaroba di Moschino alle rotte di Marco Polo, il Forte di Bard attraversa gli immaginari",
-  "desc": "Dal guardaroba di Moschino alle rotte di Marco Polo, il Forte di Bard attraversa gli immaginari",
-  "published": "2026-11-22T00:00:00+00:00",
-  "first_seen": "2026-11-22T11:35:28.901728+00:00"
- },
  "https://www.ilgiornaledellarte.com/Articolo/DallAra-Pacis-al-pugno-di-Trump-Larte-al-servizio-del-potere": {
   "title": "Dall’Ara Pacis al pugno di Trump. L’arte al servizio del potere",
   "desc": "Dall’Ara Pacis al pugno di Trump. L’arte al servizio del potere",
@@ -478,5 +472,11 @@
   "desc": "Atene: il vecchio Museo dell’Acropoli non è più così vecchio",
   "published": "2026-11-24T00:00:00+00:00",
   "first_seen": "2026-11-24T23:55:58.061183+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Castelvecchio-celebra-i-suoi-cento-anni-con-la-Venere-di-Tiziano-E-guarda-al-futuro": {
+  "title": "Castelvecchio celebra i suoi cento anni con la Venere di Tiziano. E guarda al futuro",
+  "desc": "Castelvecchio celebra i suoi cento anni con la Venere di Tiziano. E guarda al futuro",
+  "published": "2026-11-25T00:00:00+00:00",
+  "first_seen": "2026-11-25T08:45:12.559497+00:00"
  }
 }
