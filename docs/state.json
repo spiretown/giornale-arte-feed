@@ -41,18 +41,6 @@
   "published": "2026-11-25T00:00:00+00:00",
   "first_seen": "2026-11-25T19:22:45.416281+00:00"
  },
- "https://www.ilgiornaledellarte.com/Articolo/La-Tate-Liverpool-riaprira-nellautunno-con-una-mostra-inedita-sul-Surrealismo": {
-  "title": "La Tate Liverpool riaprirà nell’autunno 2027 con una mostra inedita sul Surrealismo",
-  "desc": "La Tate Liverpool riaprirà nell’autunno 2027 con una mostra inedita sul Surrealismo",
-  "published": "2026-11-25T00:00:00+00:00",
-  "first_seen": "2026-11-25T19:22:44.416281+00:00"
- },
- "https://www.ilgiornaledellarte.com/Articolo/Lalta-gioielleria-si-prende-la-scena-a-Bruxelles": {
-  "title": "L’alta gioielleria si prende la scena a Bruxelles",
-  "desc": "L’alta gioielleria si prende la scena a Bruxelles",
-  "published": "2026-11-25T00:00:00+00:00",
-  "first_seen": "2026-11-25T19:22:43.416281+00:00"
- },
  "https://www.ilgiornaledellarte.com/Articolo/Roma-apre-il-Visitor-Center-del-CArMe-e-un-viaggio-immersivo-nel-cuore-antico-della-citta": {
   "title": "Roma, apre il Visitor Center del CArMe: è un viaggio immersivo nel cuore antico della città",
   "desc": "Roma, apre il Visitor Center del CArMe: è un viaggio immersivo nel cuore antico della città",
@@ -478,5 +466,17 @@
   "desc": "Ilona Staller: «Vi racconto la mia performance, lunga una vita»",
   "published": "2026-11-28T00:00:00+00:00",
   "first_seen": "2026-11-28T07:57:36.817530+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Da-Venezia-a-Berlino-il-corpo-e-le-contraddizioni-dellacqua-di-Florentina-Holzinger-al-Gropius-Bau": {
+  "title": "Da Venezia a Berlino: il corpo e le contraddizioni dell’acqua di Florentina Holzinger al Gropius Bau",
+  "desc": "Da Venezia a Berlino: il corpo e le contraddizioni dell’acqua di Florentina Holzinger al Gropius Bau",
+  "published": "2026-11-28T00:00:00+00:00",
+  "first_seen": "2026-11-28T17:37:11.998351+00:00"
+ },
+ "https://www.ilgiornaledellarte.com/Articolo/Quando-penso-alla-Germania-trentanni-di-contraddizioni-in-mostra-al-Gropius-Bau-": {
+  "title": "Quando penso alla Germania... trent’anni di contraddizioni in mostra al Gropius Bau",
+  "desc": "Quando penso alla Germania... trent’anni di contraddizioni in mostra al Gropius Bau",
+  "published": "2026-11-28T00:00:00+00:00",
+  "first_seen": "2026-11-28T17:37:10.998351+00:00"
  }
 }
